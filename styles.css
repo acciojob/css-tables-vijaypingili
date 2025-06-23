@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+th,td{
+	border:1px solid #ccc;
+	border-radius:5px;
+	padding:0.5rem;
+}
+
+.even {
+	background-color:#ffffff;
+}
+
+.odd {
+	background-color:#f2f2f2;
+}
